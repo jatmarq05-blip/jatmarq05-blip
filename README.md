@@ -15,6 +15,5 @@ Hey! My name is Juan Antonio Torres Marquina! Im the current VP for the engineer
 - 🏹 Fun fact: I was the captain of the archery team in highschool and competed in regionals  
 - 📫 How to reach me: Jatmarq05@gmail.com and Jtorresmarquina@student.ccc.edu
  
- <div style="background-color: #36499e; padding: 10px; text-align: center; font-family: monospace; width: 75px; height: 20px">
-  <a href="https://www.linkedin.com/in/juantorresm/" style="color: #ffffff; text-decoration: none">LinkedIn</a>
+[<img src="image.png" width="100" height="75">](linkedin.com/in/juantorresm/)
 </div>
